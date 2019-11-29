@@ -1,4 +1,4 @@
-#Target Disquisition
+# Target Disquisition
 ## Overview
 This project is an independent, Java/Swing implementation of some of the ideas found in the 
 [Analyze Targets](https://www.shootingsoftware.com/target.htm) module of 
@@ -12,10 +12,10 @@ The original version of this project was written in the early 2000's with XCode,
 Quartz application. Sometime around 2010ish, it was ported to pure Java/Swing, 
 to be run from a jar file on any platform.
 
-##Run
+## Run
 `java -jar TagetDisquisition.jar`
 
-##Usage
+## Usage
 1. (optional) click preferences, choose English (imperial) or Metric (SI) units.
 2. Calibrate the screen: Click the calibrate button and follow the directions.  You need a ruler.
 3. Click the shoot button, and enter the distance the target was shot from.
