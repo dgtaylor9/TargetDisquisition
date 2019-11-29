@@ -24,4 +24,6 @@ to be run from a jar file on any platform.
     - Click to enter point of aim.
     - Click each shot.
     - If needed, shift-click to remove the previous shot.
-6. Click the "Done" button to display analysis.
+6. When you have clicked all bullet holes, remove the target from the screen
+and click the "Done" button to display analysis.
+
