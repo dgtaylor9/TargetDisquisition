@@ -9,7 +9,7 @@ The idea is to provide quantitative analysis of shot grouping of a single marksm
 
 ## History
 The original version of this project was written in late 2003 with XCode, as an OS X native
-Quartz application. In early 2010, it was ported to pure Java/Swing, 
+Quartz application. In early 2011, it was ported to pure Java/Swing, 
 to be run from a jar file on any platform.
 
 ## Run
