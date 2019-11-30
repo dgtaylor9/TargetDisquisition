@@ -7,6 +7,10 @@ published by [Recreational Software, Inc](https://www.shootingsoftware.com/index
 
 The idea is to provide quantitative analysis of shot grouping of a single marksmanship target.
 
+![Target diagram](screenshot-target-diagram.png)
+
+![Target stats](screenshot-stats.png)
+
 ## History
 The original version of this project was written in late 2003 with XCode, as an OS X native
 Quartz application. In early 2011, it was ported to pure Java/Swing, 
